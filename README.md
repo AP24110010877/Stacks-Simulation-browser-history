@@ -1,2 +1,2 @@
 # Stacks-Simulation-browser-history
-This is a college project
+by Venkata Akash Jampani - AP24110010877
